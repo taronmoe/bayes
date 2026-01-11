@@ -1,0 +1,12 @@
+Problem1, Normal_Output, No_Output
+(0.43, 0.57)
+Problem2, OK, Too_Long
+(0.84, 0.16)
+Problem3, No, Yes
+(0.42, 0.58)
+Problem4, No, Yes
+(0.16, 0.84)
+Problem5, No, Yes
+(0.24, 0.76)
+Problem6, No, Yes
+(0.98, 0.02)
